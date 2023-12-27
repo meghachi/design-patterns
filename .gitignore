@@ -8,3 +8,4 @@ target
 *.pem
 *.mp4
 .DS_Store
+.idea
